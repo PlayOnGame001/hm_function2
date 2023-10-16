@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hm_function2", "hm_function2\hm_function2.csproj", "{A26895EF-83E3-428F-912B-568E6711A761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26895EF-83E3-428F-912B-568E6711A761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26895EF-83E3-428F-912B-568E6711A761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26895EF-83E3-428F-912B-568E6711A761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26895EF-83E3-428F-912B-568E6711A761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A4D6E00-EF64-48B9-AB5F-E9401BEAC702}
+	EndGlobalSection
+EndGlobal
